@@ -3,3 +3,6 @@ Our project is a four-legged mobile robot with intelligent sensing and decision-
 
 
 <img width="600" src="https://github.com/Ahsan728/SPY-insect-robot/blob/master/IMG20180728212005.jpg">
+<img width="600" src="https://github.com/Ahsan728/SPY-insect-robot/blob/master/Robot%20insect.jpg">
+<img width="600" src="https://github.com/Ahsan728/SPY-insect-robot/blob/master/insect.PNG">
+<img width="600" src="https://github.com/Ahsan728/SPY-insect-robot/blob/master/robot%20insect.jpeg">
